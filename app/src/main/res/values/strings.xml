@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Training_Room</string>
+    <string name="action_refresh">refresh</string>
+    <string name="title_activity_add_edit_note">AddEditNoteActivity</string>
+</resources>
